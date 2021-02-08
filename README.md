@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey there it's Souvik 👋
+ 
 
-<!--
-**8-bit-souvik/8-bit-souvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Web development
+- 🌱 I’m currently learning MERN stack
+-    I'm technical content writer on dev.to
+- 🤔 I’m looking for help with open source contributor
+- 💬 Ask me about ... anything
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/souvik-mandal-0761b2202">linkdin</a> or mail to: sonu.at.2001.20@gmail.com
+- 👯 Active on ... <a href="">codechef</a>
+- 😄 Pronouns: ... Souvik
+- ⚡ Fun fact: ...Talkative about technical disscussions.  I want to build a good community for that.
