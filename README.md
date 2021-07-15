@@ -9,7 +9,7 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/souvik-mandal-0761b2202">linkdin</a> or mail to: sonu.at.2001.20@gmail.com
 - 👯 Active on: <a href="">codechef</a>
 - 😄 Pronouns:  Souvik
-- ⚡ Fun fact: Talkative about technical disscussions.  I want a good community for that.
+
 
 
 ![Metrics](https://metrics.lecoq.io/8-bit-souvik?template=classic&config.timezone=Asia%2FCalcutta&config.animated=true)
