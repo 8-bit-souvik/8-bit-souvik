@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with <b> open source contributor </b>
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/souvik-mandal-0761b2202">linkdin</a>
-- 👯 Active on: <a href="">codechef</a>
+- 👯 Active on: <a href="">leetcode</a>
 - 😄 Pronouns:  Souvik
 
 
