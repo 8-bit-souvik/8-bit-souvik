@@ -12,13 +12,14 @@
 - 😄 Pronouns:  He/Him
 
 
+
 <p align="left"> <a href="https://twitter.com/8bitsouvik" target="blank"><img src="https://img.shields.io/twitter/follow/8bitsouvik?logo=twitter&style=for-the-badge" alt="8bitsouvik" /></a> </p>
 
 
 <br>
+<img align='right' src="https://c.tenor.com/d2Hi1JQviEUAAAAC/bruce-almighty-type.gif" width="280">
 
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/8bitsouvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="8bitsouvik" height="30" width="40" /></a>
 <a href="https://twitter.com/8bitsouvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="8bitsouvik" height="30" width="40" /></a>
@@ -28,7 +29,9 @@
 
 <br>
 
-<h4 align="left">I worked with / currently learning:</h4>
+
+
+<h2 align="left">I worked with / currently learning:</h2>
 
 
 <h3 align="left">Languages :</h3>
