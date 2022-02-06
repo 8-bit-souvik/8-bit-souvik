@@ -7,7 +7,7 @@
 - 📝 I'm technical content writer on <a href="https://www.dev.to/8bitsouvik"> <b>dev.to</b> </a>
 - 🤔 I’m looking for help with <b> open source contributor </b>
 - 💬 Ask me about anything
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/souvik-mandal-0761b2202">linkdin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/souvik-mandal-0761b2202">linkedin</a>
 - 👯 Active on: <a href="https://leetcode.com/8-bit-souvik/">leetcode</a>
 - 😄 Pronouns:  He/Him
 
