@@ -25,6 +25,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/8bitsouvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="8bitsouvik" height="30" width="40" /></a>
+ <a href="https://hashnode.com/@8bitsouvik" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72222987/153700688-a695f9e2-da2d-4db5-90e9-9985eab9af24.png" alt="@8bitsouvik" height="30" width="30" /></a>
 <a href="https://twitter.com/8bitsouvik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="8bitsouvik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souvikmandal20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvikmandal20" height="30" width="40" /></a>
 <a href="https://discord.gg/mfa.6ziB900ov_zm7H3V3oLR5v-p9Z3MqqhMEGndzUArbWqcsuJKW73fbv3RdnVno-uvwxl_PX03gD9T2VFDbvG9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mfa.6ziB900ov_zm7H3V3oLR5v-p9Z3MqqhMEGndzUArbWqcsuJKW73fbv3RdnVno-uvwxl_PX03gD9T2VFDbvG9" height="30" width="40" /></a>
