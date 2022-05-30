@@ -17,8 +17,8 @@
 
 
 <br>
-<img align='right' src="https://c.tenor.com/d2Hi1JQviEUAAAAC/bruce-almighty-type.gif" width="280">
-<br>
+<!-- <img align='right' src="https://c.tenor.com/d2Hi1JQviEUAAAAC/bruce-almighty-type.gif" width="280">
+<br> -->
 <br>
 
 
