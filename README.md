@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Souvik</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on <b> Web development </b>
-- 🌱 I’m currently learning <b> MERN stack </b>
+- 🔭 I’m currently working on <b> Frontend & Backend development </b>
+- 🌱 I’m currently learning <b> Backend & DevOps </b>
 - 📝 I'm technical content writer on <a href="https://www.dev.to/8bitsouvik"> <b>dev.to</b> </a>
 - 🤔 I’m looking for help with <b> open source contributor </b>
 - 💬 Ask me about anything
